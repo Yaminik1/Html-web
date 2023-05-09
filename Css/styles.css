@@ -1,0 +1,20 @@
+body{
+}
+h1{
+    margin-left: 60px;
+}
+.sugar{
+    margin-left: 20px;
+}
+img {
+    max-width: 40%;
+    min-height: 10;
+    margin-left: 40px;
+}
+h2{
+    margin-left: 80px;
+    color: blue;
+}
+h3{
+    margin-left: 40px;
+}
